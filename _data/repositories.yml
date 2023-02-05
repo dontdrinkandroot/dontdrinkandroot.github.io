@@ -1,0 +1,14 @@
+-   name: api-platform-bundle.php
+    sonar_name: dontdrinkandroot_api-platform-bundle.php
+-   name: bootstrap-bundle.php
+    sonar_name: dontdrinkandroot_bootstrap-bundle.php
+-   name: bridge-bundle.php
+    sonar_name: dontdrinkandroot_bridge-bundle.php
+-   name: common.php
+    sonar_name: dontdrinkandroot_common.php
+-   name: crud-admin-bundle.php
+    sonar_name: dontdrinkandroot_crud-admin-bundle.php
+-   name: doctrine-bundle.php
+    sonar_name: dontdrinkandroot_doctrine-bundle.php
+-   name: gitki-bundle.php
+    sonar_name: dontdrinkandroot_gitki-bundle.php
