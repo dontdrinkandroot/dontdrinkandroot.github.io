@@ -1,3 +1,7 @@
+-   name: activitypub-core-bundle.php
+    sonar_name: dontdrinkandroot_activitypub-core-bundle.php
+-   name: activitypub-orm-bundle.php
+    sonar_name: dontdrinkandroot_activitypub-orm-bundle.php
 -   name: api-platform-bundle.php
     sonar_name: dontdrinkandroot_api-platform-bundle.php
 -   name: bootstrap-bundle.php
